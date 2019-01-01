@@ -1,0 +1,2620 @@
+#EXTM3U
+#EXTINF:-1,AXN HD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/24.ts
+#EXTINF:-1,BENFICA TV 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/15.ts
+#EXTINF:-1,CMTV
+http://62.210.124.106:8000/live/aplicacao/scp4ever/9.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/16.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/17.ts
+#EXTINF:-1,FOX HD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/23.ts
+#EXTINF:-1,HOLLYWOOD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/22.ts
+#EXTINF:-1,RTP 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/2.ts
+#EXTINF:-1,RTP 2
+http://62.210.124.106:8000/live/aplicacao/scp4ever/3.ts
+#EXTINF:-1,SIC
+http://62.210.124.106:8000/live/aplicacao/scp4ever/4.ts
+#EXTINF:-1,SIC NOTICIAS
+http://62.210.124.106:8000/live/aplicacao/scp4ever/8.ts
+#EXTINF:-1,SPORT TV 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/10.ts
+#EXTINF:-1,SPORT TV 2
+http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
+#EXTINF:-1,SPORT TV 3
+http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
+#EXTINF:-1,SPORT TV 4
+http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
+#EXTINF:-1,SPORT TV 5
+http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
+#EXTINF:-1,TV CINE 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/18.ts
+#EXTINF:-1,TV CINE 2
+http://62.210.124.106:8000/live/aplicacao/scp4ever/19.ts
+#EXTINF:-1,TV CINE 3
+http://62.210.124.106:8000/live/aplicacao/scp4ever/20.ts
+#EXTINF:-1,TV CINE 4
+http://62.210.124.106:8000/live/aplicacao/scp4ever/21.ts
+#EXTINF:-1,TVI
+http://62.210.124.106:8000/live/aplicacao/scp4ever/5.ts
+#EXTINF:-1,TVI REALITY
+http://62.210.124.106:8000/live/aplicacao/scp4ever/7.ts
+#EXTINF:-1,TVI FICÇÂO
+http://62.210.124.106:8000/live/aplicacao/scp4ever/6.ts
+
+#EXTINF:-1,PT- 24 Kitchen HD
+http://linux-app.tv:6204/mohammad/mohammad/8876
+#EXTINF:-1,PT- A&E
+http://linux-app.tv:6204/mohammad/mohammad/8875
+#EXTINF:-1,PT- ABOLA TV
+http://linux-app.tv:6204/mohammad/mohammad/8874
+#EXTINF:-1,PT- Afro Music
+http://linux-app.tv:6204/mohammad/mohammad/8873
+#EXTINF:-1,PT- AXN BLACK HD
+http://linux-app.tv:6204/mohammad/mohammad/8872
+#EXTINF:-1,PT- AXN HD
+http://linux-app.tv:6204/mohammad/mohammad/8871
+#EXTINF:-1,PT- AXN WHITE
+http://linux-app.tv:6204/mohammad/mohammad/8870
+#EXTINF:-1,PT- Baby Tv
+http://linux-app.tv:6204/mohammad/mohammad/8869
+#EXTINF:-1,PT- Biggs
+http://linux-app.tv:6204/mohammad/mohammad/8868
+#EXTINF:-1,PT- BTV 1 HD
+http://linux-app.tv:6204/mohammad/mohammad/8867
+#EXTINF:-1,PT- Caca & Pesca
+http://linux-app.tv:6204/mohammad/mohammad/8866
+#EXTINF:-1,PT- Canal Historia
+http://linux-app.tv:6204/mohammad/mohammad/8865
+#EXTINF:-1,PT- CANAL PANDA
+http://linux-app.tv:6204/mohammad/mohammad/8864
+#EXTINF:-1,PT- Cancao Nova
+http://linux-app.tv:6204/mohammad/mohammad/8863
+#EXTINF:-1,PT- Cartoon NetWork
+http://linux-app.tv:6204/mohammad/mohammad/8862
+#EXTINF:-1,PT- CBS Reality
+http://linux-app.tv:6204/mohammad/mohammad/8861
+#EXTINF:-1,PT- CINEMUNDO
+http://linux-app.tv:6204/mohammad/mohammad/8860
+#EXTINF:-1,PT- CMTV
+http://linux-app.tv:6204/mohammad/mohammad/8859
+#EXTINF:-1,PT- Discovery Channel
+http://linux-app.tv:6204/mohammad/mohammad/8858
+#EXTINF:-1,PT- Discovery Showcase HD
+http://linux-app.tv:6204/mohammad/mohammad/8857
+#EXTINF:-1,PT- Disney Channel
+http://linux-app.tv:6204/mohammad/mohammad/8856
+#EXTINF:-1,PT- E! Entertaunment
+http://linux-app.tv:6204/mohammad/mohammad/8855
+#EXTINF:-1,PT- EUroNews
+http://linux-app.tv:6204/mohammad/mohammad/8854
+#EXTINF:-1,PT- EUROSPORT 1
+http://linux-app.tv:6204/mohammad/mohammad/8853
+#EXTINF:-1,PT- EUROSPORT 2
+http://linux-app.tv:6204/mohammad/mohammad/8852
+#EXTINF:-1,PT- EuroSport 2 XTRA HD
+http://linux-app.tv:6204/mohammad/mohammad/8851
+#EXTINF:-1,PT- EUROSPORT NEWS
+http://linux-app.tv:6204/mohammad/mohammad/8850
+#EXTINF:-1,PT- FOX COMEDY
+http://linux-app.tv:6204/mohammad/mohammad/8849
+#EXTINF:-1,PT- FOX Crime HD
+http://linux-app.tv:6204/mohammad/mohammad/8848
+#EXTINF:-1,PT- FOX HD
+http://linux-app.tv:6204/mohammad/mohammad/8847
+#EXTINF:-1,PT- Fox Life HD
+http://linux-app.tv:6204/mohammad/mohammad/8846
+#EXTINF:-1,PT- FOX Movies
+http://linux-app.tv:6204/mohammad/mohammad/8845
+#EXTINF:-1,PT- Fuel TV
+http://linux-app.tv:6204/mohammad/mohammad/8844
+#EXTINF:-1,PT- FX
+http://linux-app.tv:6204/mohammad/mohammad/8843
+#EXTINF:-1,PT- Globo
+http://linux-app.tv:6204/mohammad/mohammad/8842
+#EXTINF:-1,PT- Globo Premium
+http://linux-app.tv:6204/mohammad/mohammad/8841
+#EXTINF:-1,PT- Historia
+http://linux-app.tv:6204/mohammad/mohammad/8840
+#EXTINF:-1,PT- Hollywood HD
+http://linux-app.tv:6204/mohammad/mohammad/8839
+#EXTINF:-1,PT- MCM Pop
+http://linux-app.tv:6204/mohammad/mohammad/8838
+#EXTINF:-1,PT- Motors TV
+http://linux-app.tv:6204/mohammad/mohammad/8837
+#EXTINF:-1,PT- Motorvision
+http://linux-app.tv:6204/mohammad/mohammad/8836
+#EXTINF:-1,PT- MOV
+http://linux-app.tv:6204/mohammad/mohammad/8835
+#EXTINF:-1,PT- MTV Portugal
+http://linux-app.tv:6204/mohammad/mohammad/8834
+#EXTINF:-1,PT- Nat Geo Wild
+http://linux-app.tv:6204/mohammad/mohammad/8833
+#EXTINF:-1,PT- National Geographic HD
+http://linux-app.tv:6204/mohammad/mohammad/8832
+#EXTINF:-1,PT- Nickelodeon
+http://linux-app.tv:6204/mohammad/mohammad/8831
+#EXTINF:-1,PT- Odisseia
+http://linux-app.tv:6204/mohammad/mohammad/8830
+#EXTINF:-1,PT- PFC
+http://linux-app.tv:6204/mohammad/mohammad/8829
+#EXTINF:-1,PT- Porto Canal
+http://linux-app.tv:6204/mohammad/mohammad/8828
+#EXTINF:-1,PT- Record News
+http://linux-app.tv:6204/mohammad/mohammad/8827
+#EXTINF:-1,PT- RTP 1
+http://linux-app.tv:6204/mohammad/mohammad/8826
+#EXTINF:-1,PT- RTP 2
+http://linux-app.tv:6204/mohammad/mohammad/8825
+#EXTINF:-1,PT- RTP 3
+http://linux-app.tv:6204/mohammad/mohammad/8824
+#EXTINF:-1,PT- RTP Acores
+http://linux-app.tv:6204/mohammad/mohammad/8823
+#EXTINF:-1,PT- RTP Ãfrica
+http://linux-app.tv:6204/mohammad/mohammad/8822
+#EXTINF:-1,PT- RTP Madeira
+http://linux-app.tv:6204/mohammad/mohammad/8821
+#EXTINF:-1,PT- RTP Memoria
+http://linux-app.tv:6204/mohammad/mohammad/8820
+#EXTINF:-1,PT- SIC
+http://linux-app.tv:6204/mohammad/mohammad/8819
+#EXTINF:-1,PT- SIC Caras
+http://linux-app.tv:6204/mohammad/mohammad/8818
+#EXTINF:-1,PT- SIC HD
+http://linux-app.tv:6204/mohammad/mohammad/8817
+#EXTINF:-1,PT- SIC K
+http://linux-app.tv:6204/mohammad/mohammad/8816
+#EXTINF:-1,PT- SIC Kids HD
+http://linux-app.tv:6204/mohammad/mohammad/8815
+#EXTINF:-1,PT- SIC Mulher
+http://linux-app.tv:6204/mohammad/mohammad/8814
+#EXTINF:-1,PT- SIC Noticias
+http://linux-app.tv:6204/mohammad/mohammad/8813
+#EXTINF:-1,PT- SIC Noticias HD
+http://linux-app.tv:6204/mohammad/mohammad/8812
+#EXTINF:-1,PT- SIC Radical
+http://linux-app.tv:6204/mohammad/mohammad/8811
+#EXTINF:-1,PT- SPORT TV
+http://linux-app.tv:6204/mohammad/mohammad/8810
+#EXTINF:-1,PT- SPORT TV   HD
+http://linux-app.tv:6204/mohammad/mohammad/8809
+#EXTINF:-1,PT- SPORTING TV
+http://linux-app.tv:6204/mohammad/mohammad/8808
+#EXTINF:-1,PT- SPORTTV 1 HD
+http://linux-app.tv:6204/mohammad/mohammad/8807
+#EXTINF:-1,PT- SPORTTV 1 SD
+http://linux-app.tv:6204/mohammad/mohammad/8806
+#EXTINF:-1,PT- SPORTTV 2 HD
+http://linux-app.tv:6204/mohammad/mohammad/8805
+#EXTINF:-1,PT- SPORTTV 2 SD
+http://linux-app.tv:6204/mohammad/mohammad/8804
+#EXTINF:-1,PT- SPORTTV 3 HD
+http://linux-app.tv:6204/mohammad/mohammad/8803
+#EXTINF:-1,PT- SPORTTV 3 SD
+http://linux-app.tv:6204/mohammad/mohammad/8802
+#EXTINF:-1,PT- SPORTTV 4 HD
+http://linux-app.tv:6204/mohammad/mohammad/8801
+#EXTINF:-1,PT- SPORTTV 5 HD
+http://linux-app.tv:6204/mohammad/mohammad/8800
+#EXTINF:-1,PT- TLC
+http://linux-app.tv:6204/mohammad/mohammad/8799
+#EXTINF:-1,PT- TPA Angola
+http://linux-app.tv:6204/mohammad/mohammad/8798
+#EXTINF:-1,PT- Travel Channel HD
+http://linux-app.tv:6204/mohammad/mohammad/8797
+#EXTINF:-1,PT- TV Globo Premium
+http://linux-app.tv:6204/mohammad/mohammad/8796
+#EXTINF:-1,PT- TVCINE 1 HD
+http://linux-app.tv:6204/mohammad/mohammad/8795
+#EXTINF:-1,PT- TVCINE 2 HD
+http://linux-app.tv:6204/mohammad/mohammad/8794
+#EXTINF:-1,PT- TVCINE 3 HD
+http://linux-app.tv:6204/mohammad/mohammad/8793
+#EXTINF:-1,PT- TVCINE 4 HD
+http://linux-app.tv:6204/mohammad/mohammad/8792
+#EXTINF:-1,PT- TVE Internacional
+http://linux-app.tv:6204/mohammad/mohammad/8791
+#EXTINF:-1,PT- TVI
+http://linux-app.tv:6204/mohammad/mohammad/8790
+#EXTINF:-1,PT- Tvi 24
+http://linux-app.tv:6204/mohammad/mohammad/8789
+#EXTINF:-1,PT- TVI FICCAO
+http://linux-app.tv:6204/mohammad/mohammad/8788
+#EXTINF:-1,PT- TVI REALITY
+http://linux-app.tv:6204/mohammad/mohammad/8787
+
+#EXTINF:-1,PT:24 Kitchen HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20384.m3u8
+#EXTINF:-1,PT:A BOLA TV
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20385.m3u8
+#EXTINF:-1,PT:A&E
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20386.m3u8
+#EXTINF:-1,PT:AFRO MUSIC
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20387.m3u8
+#EXTINF:-1,PT:AMC
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20388.m3u8
+#EXTINF:-1,PT:AXN BLACK HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20389.m3u8
+#EXTINF:-1,PT:AXN HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20390.m3u8
+#EXTINF:-1,PT:AXN WHITE HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20391.m3u8
+#EXTINF:-1,PT:BENFICA TV 1
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20393.m3u8
+#EXTINF:-1,PT:BENFICA TV 1 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20394.m3u8
+#EXTINF:-1,PT:CACA E PESCA
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20395.m3u8
+#EXTINF:-1,PT:CACAVISION
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20396.m3u8
+#EXTINF:-1,PT:CANAL HISTORIA
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20397.m3u8
+#EXTINF:-1,PT:CANAL PANDA
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20398.m3u8
+#EXTINF:-1,PT:CARTOON NETWORK
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20399.m3u8
+#EXTINF:-1,PT:CBS REALITY
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20400.m3u8
+#EXTINF:-1,PT:CHELSEA TV
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20401.m3u8
+#EXTINF:-1,PT:CINEMUNDO
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20402.m3u8
+#EXTINF:-1,PT:DISCOVERY CHANNEL
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20404.m3u8
+#EXTINF:-1,PT:DISCOVERY SHOWCASE HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20405.m3u8
+#EXTINF:-1,PT:DISNEY CHANNEL
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20406.m3u8
+#EXTINF:-1,PT:DISNEY JUNIOR
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20407.m3u8
+#EXTINF:-1,PT:E! ENTERTAINMENT
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20408.m3u8
+#EXTINF:-1,PT:Fox Comedy
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20412.m3u8
+#EXTINF:-1,PT:FOX CRIME HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20413.m3u8
+#EXTINF:-1,PT:FOX FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20414.m3u8
+#EXTINF:-1,PT:FOX HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20415.m3u8
+#EXTINF:-1,PT:FOX LIFE HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20416.m3u8
+#EXTINF:-1,PT:FOX MOVIES
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20417.m3u8
+#EXTINF:-1,PT:JIM JAM
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20421.m3u8
+#EXTINF:-1,PT:TVI REALITY HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20479.m3u8
+#EXTINF:-1,PT:HOLLYWOD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20420.m3u8
+#EXTINF:-1,PT:NAT GEO WILD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20427.m3u8
+#EXTINF:-1,PT:NATIONAL GEOGRAPHIC HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20428.m3u8
+#EXTINF:-1,PT:NICKELODEON
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20429.m3u8
+#EXTINF:-1,PT:PANDA BIGGS
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20431.m3u8
+#EXTINF:-1,PT:PANDA BIGGS HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20432.m3u8
+#EXTINF:-1,PT:PORTO CANAL
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20434.m3u8
+#EXTINF:-1,PT:Real Madrid TV
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20435.m3u8
+#EXTINF:-1,PT:RTP 1
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20436.m3u8
+#EXTINF:-1,PT:RTP 2
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20437.m3u8
+#EXTINF:-1,PT:RTP 3
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20438.m3u8
+#EXTINF:-1,PT:RTP INT
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20441.m3u8
+#EXTINF:-1,PT:SIC
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20444.m3u8
+#EXTINF:-1,PT:SIC CARAS
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20445.m3u8
+#EXTINF:-1,PT:SIC K
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20446.m3u8
+#EXTINF:-1,PT:SIC MULHER
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20447.m3u8
+#EXTINF:-1,PT:SIC NOTICIAS
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20448.m3u8
+#EXTINF:-1,PT:SIC RADICAL
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20449.m3u8
+#EXTINF:-1,PT:SPORT TV
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20450.m3u8
+#EXTINF:-1,PT:SPORT TV 1 SD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20451.m3u8
+#EXTINF:-1,PT:SPORT TV 2  HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20452.m3u8
+#EXTINF:-1,PT:SPORT TV 2  SD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20453.m3u8
+#EXTINF:-1,PT:SPORT TV 3 SD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20454.m3u8
+#EXTINF:-1,PT:SPORT TV 4
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20455.m3u8
+#EXTINF:-1,PT:SPORT TV 5
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20456.m3u8
+#EXTINF:-1,PT:SPORTING TV
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20457.m3u8
+#EXTINF:-1,PT:SPORTV 1 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20458.m3u8
+#EXTINF:-1,PT:SPORTV 1 HD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20459.m3u8
+#EXTINF:-1,PT:SPORTV 2 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20460.m3u8
+#EXTINF:-1,PT:SPORTV 3 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20461.m3u8
+#EXTINF:-1,PT:SPORTV 4 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/20462.m3u8
+#EXTINF:-1,PT:24 KITCHEN FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23426.m3u8
+#EXTINF:-1,PT:AMC FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23427.m3u8
+#EXTINF:-1,PT:AXN BLACK FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23428.m3u8
+#EXTINF:-1,PT:AXN FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23429.m3u8
+#EXTINF:-1,PT:AXN WHITE FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23430.m3u8
+#EXTINF:-1,PT:BIGGS
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23431.m3u8
+#EXTINF:-1,PT:BLOOMBERG
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23432.m3u8
+#EXTINF:-1,PT:BTV 1 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23433.m3u8
+#EXTINF:-1,PT:BTV FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23434.m3u8
+#EXTINF:-1,PT:C-Music
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23435.m3u8
+#EXTINF:-1,PT:CACA & PESCA
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23436.m3u8
+#EXTINF:-1,PT:CAMARA REALITY
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23437.m3u8
+#EXTINF:-1,PT:CANAL CINEMUNDO
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23438.m3u8
+#EXTINF:-1,PT:Canal de Historia
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23439.m3u8
+#EXTINF:-1,PT:CANAL HISTORIA FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23440.m3u8
+#EXTINF:-1,PT:Canal Nos
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23441.m3u8
+#EXTINF:-1,PT:Canal Porto
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23442.m3u8
+#EXTINF:-1,PT:Canal Q FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23443.m3u8
+#EXTINF:-1,PT:CANAL TOROS
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23444.m3u8
+#EXTINF:-1,PT:Canalo Nova
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23445.m3u8
+#EXTINF:-1,PT:CAPELA DE FATIMA
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23446.m3u8
+#EXTINF:-1,PT:CAPELINHA DAS APARIÇÕES
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23447.m3u8
+#EXTINF:-1,PT:Casa E Pesca
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23448.m3u8
+#EXTINF:-1,PT:CBSN
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23449.m3u8
+#EXTINF:-1,PT:Chelsea TV FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23450.m3u8
+#EXTINF:-1,PT:CINE MUNDO FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23451.m3u8
+#EXTINF:-1,PT:CMTV FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23452.m3u8
+#EXTINF:-1,PT:CRIME INVESTIGATION
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23453.m3u8
+#EXTINF:-1,PT:Discovery Channel FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23454.m3u8
+#EXTINF:-1,PT:DISCOVERY SHOWCASE FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23455.m3u8
+#EXTINF:-1,PT:Disney Channel FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23456.m3u8
+#EXTINF:-1,PT:Disney JR
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23457.m3u8
+#EXTINF:-1,PT:E! Entertainment FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23458.m3u8
+#EXTINF:-1,PT:ELEVEN SPORTS 1 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23459.m3u8
+#EXTINF:-1,PT:ELEVEN SPORTS 2 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23460.m3u8
+#EXTINF:-1,PT:Eleven Sports 3 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23461.m3u8
+#EXTINF:-1,PT:Eleven Sports 4 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23462.m3u8
+#EXTINF:-1,PT:Eleven Sports 5 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23463.m3u8
+#EXTINF:-1,PT:Eleven Sports 6 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23464.m3u8
+#EXTINF:-1,PT:ENTERTAINMENT
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23465.m3u8
+#EXTINF:-1,PT:EUROSPORT
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23466.m3u8
+#EXTINF:-1,PT:EUROSPORT 1 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23467.m3u8
+#EXTINF:-1,PT:Eurosport 2 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23468.m3u8
+#EXTINF:-1,PT:Eurosport News
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23469.m3u8
+#EXTINF:-1,PT:FINE LIVING NETWORK FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23470.m3u8
+#EXTINF:-1,PT:FOX COMEDY FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23471.m3u8
+#EXTINF:-1,PT:FOX LIFE FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23472.m3u8
+#EXTINF:-1,PT:Fox Movies FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23473.m3u8
+#EXTINF:-1,PT:FUEL TV FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23474.m3u8
+#EXTINF:-1,PT:GLOBO FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23475.m3u8
+#EXTINF:-1,PT:Globo Now FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23476.m3u8
+#EXTINF:-1,PT:Historia FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23477.m3u8
+#EXTINF:-1,PT:KITCHEN FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23478.m3u8
+#EXTINF:-1,PT:Kombat Sports
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23479.m3u8
+#EXTINF:-1,PT:LOCALVISAO TV FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23480.m3u8
+#EXTINF:-1,PT:MACAU TV
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23481.m3u8
+#EXTINF:-1,PT:MOTORVISION FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23482.m3u8
+#EXTINF:-1,PT:My cuisine
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23483.m3u8
+#EXTINF:-1,PT:NAT GEO FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23484.m3u8
+#EXTINF:-1,PT:NAT GEO Wild FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23485.m3u8
+#EXTINF:-1,PT:Niclelodeon FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23486.m3u8
+#EXTINF:-1,PT:ODISSEIA
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23487.m3u8
+#EXTINF:-1,PT:PANDA FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23488.m3u8
+#EXTINF:-1,PT:PFC FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23489.m3u8
+#EXTINF:-1,PT:PORTO
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23490.m3u8
+#EXTINF:-1,PT:RECORD NEWS
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23491.m3u8
+#EXTINF:-1,PT:Record TV
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23492.m3u8
+#EXTINF:-1,PT:RTP 1 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23493.m3u8
+#EXTINF:-1,PT:RTP 2 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23494.m3u8
+#EXTINF:-1,PT:RTP 3 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23495.m3u8
+#EXTINF:-1,PT:Rtp Ã§ores
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23498.m3u8
+#EXTINF:-1,PT:RTP ACORES
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23496.m3u8
+#EXTINF:-1,PT:RTP AFRICA
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23497.m3u8
+#EXTINF:-1,PT:RTP Madeira
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23499.m3u8
+#EXTINF:-1,PT:SANTUARIO DE FATIMA FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23500.m3u8
+#EXTINF:-1,PT:Sic Caras FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23501.m3u8
+#EXTINF:-1,PT:Sic K FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23502.m3u8
+#EXTINF:-1,PT:SIC NOTICIAS FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23503.m3u8
+#EXTINF:-1,PT:Sic Radical FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23504.m3u8
+#EXTINF:-1,PT:SKY NEWS
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23505.m3u8
+#EXTINF:-1,PT:SPORT TV  FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23506.m3u8
+#EXTINF:-1,PT:SPORT TV FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23507.m3u8
+#EXTINF:-1,PT:Sport TV Mais
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23508.m3u8
+#EXTINF:-1,PT:SPORTING TV FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23509.m3u8
+#EXTINF:-1,PT:SportTV 1 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23510.m3u8
+#EXTINF:-1,PT:SportTV 2 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23511.m3u8
+#EXTINF:-1,PT:SportTV 3 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23512.m3u8
+#EXTINF:-1,PT:SportTV 4 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23513.m3u8
+#EXTINF:-1,PT:SportTV 5 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23514.m3u8
+#EXTINF:-1,PT:SPORTV 5 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23515.m3u8
+#EXTINF:-1,PT:SPORTV FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23516.m3u8
+#EXTINF:-1,PT:SYFY FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23517.m3u8
+#EXTINF:-1,PT:TCV CABO VERDE
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23518.m3u8
+#EXTINF:-1,PT:TLC FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23519.m3u8
+#EXTINF:-1,PT:TPA
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23520.m3u8
+#EXTINF:-1,PT:Travel Channel FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23521.m3u8
+#EXTINF:-1,PT:TV CINE 3 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23522.m3u8
+#EXTINF:-1,PT:TV Cine 4 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23523.m3u8
+#EXTINF:-1,PT:TV Galicia
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23524.m3u8
+#EXTINF:-1,PT:TV GLOBO
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23525.m3u8
+#EXTINF:-1,PT:TV Kujawy
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23526.m3u8
+#EXTINF:-1,PT:TV MIRAMAR ANGOLA
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23527.m3u8
+#EXTINF:-1,PT:TV Series FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23528.m3u8
+#EXTINF:-1,PT:TVC 1
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23529.m3u8
+#EXTINF:-1,PT:TVC 2 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23530.m3u8
+#EXTINF:-1,PT:TVCine 1 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23531.m3u8
+#EXTINF:-1,PT:TVCine 2 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23532.m3u8
+#EXTINF:-1,PT:TVCINE FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23533.m3u8
+#EXTINF:-1,PT:TVI 24 FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23534.m3u8
+#EXTINF:-1,PT:TVI Camara Exclusiva
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23535.m3u8
+#EXTINF:-1,PT:TVI FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23536.m3u8
+#EXTINF:-1,PT:TVI Ficcao FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23537.m3u8
+#EXTINF:-1,PT:TVI Reality FHD
+http://xtream.in:9000/live/uGkAHSjf1h/7vTLmqnxHE/23538.m3u8
+
+#EXTINF:-1,Pt | Axn Hd
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11000
+#EXTINF:-1,Pt | Canal Panda
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/10997
+#EXTINF:-1,Pt | Cmtv
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11014
+#EXTINF:-1,Pt | Crime Investigation
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/10998
+#EXTINF:-1,Pt | Rtp 1
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11009
+#EXTINF:-1,Pt | Rtp 2
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11010
+#EXTINF:-1,Pt | Rtp 3
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11007
+#EXTINF:-1,Pt | Sic
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11008
+#EXTINF:-1,Pt | Sic Mulher
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11011
+#EXTINF:-1,Pt | Sic Noticias
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11013
+#EXTINF:-1,Pt | Sport Tv
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/10999
+#EXTINF:-1,Pt | Sport Tv 1 Hd
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11006
+#EXTINF:-1,Pt | Sport Tv 2 Hd
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11005
+#EXTINF:-1,Pt | Sport Tv 3 Hd
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11004
+#EXTINF:-1,Pt | Sport Tv 4 Hd
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11003
+#EXTINF:-1,Pt | Tv Series
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11001
+#EXTINF:-1,Pt | Tvcine 1
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11015
+#EXTINF:-1,Pt | Tvcine 2
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11016
+#EXTINF:-1,Pt | Tvcine 3
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11017
+#EXTINF:-1,Pt | Tvcine 4
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11018
+#EXTINF:-1,Pt | Tvi
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11019
+#EXTINF:-1,Pt | Tvi 24
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11002
+#EXTINF:-1,Pt | Tvi Ficcao
+http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11012
+
+#EXTINF:-1,PT- 24 Kitchen HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8876
+#EXTINF:-1,PT- A&E
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8875
+#EXTINF:-1,PT- ABOLA TV
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8874
+#EXTINF:-1,PT- Afro Music
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8873
+#EXTINF:-1,PT- AXN BLACK HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8872
+#EXTINF:-1,PT- AXN HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8871
+#EXTINF:-1,PT- AXN WHITE
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8870
+#EXTINF:-1,PT- Baby Tv
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8869
+#EXTINF:-1,PT- Biggs
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8868
+#EXTINF:-1,PT- BTV 1 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8867
+#EXTINF:-1,PT- Caca & Pesca
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8866
+#EXTINF:-1,PT- Canal Historia
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8865
+#EXTINF:-1,PT- CANAL PANDA
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8864
+#EXTINF:-1,PT- Cancao Nova
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8863
+#EXTINF:-1,PT- Cartoon NetWork
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8862
+#EXTINF:-1,PT- CBS Reality
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8861
+#EXTINF:-1,PT- CINEMUNDO
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8860
+#EXTINF:-1,PT- CMTV
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8859
+#EXTINF:-1,PT- Discovery Channel
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8858
+#EXTINF:-1,PT- Discovery Showcase HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8857
+#EXTINF:-1,PT- Disney Channel
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8856
+#EXTINF:-1,PT- E! Entertaunment
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8855
+#EXTINF:-1,PT- EUroNews
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8854
+#EXTINF:-1,PT- EUROSPORT 1
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8853
+#EXTINF:-1,PT- EUROSPORT 2
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8852
+#EXTINF:-1,PT- EuroSport 2 XTRA HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8851
+#EXTINF:-1,PT- EUROSPORT NEWS
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8850
+#EXTINF:-1,PT- FOX COMEDY
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8849
+#EXTINF:-1,PT- FOX Crime HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8848
+#EXTINF:-1,PT- FOX HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8847
+#EXTINF:-1,PT- Fox Life HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8846
+#EXTINF:-1,PT- FOX Movies
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8845
+#EXTINF:-1,PT- Fuel TV
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8844
+#EXTINF:-1,PT- FX
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8843
+#EXTINF:-1,PT- Globo
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8842
+#EXTINF:-1,PT- Globo Premium
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8841
+#EXTINF:-1,PT- Historia
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8840
+#EXTINF:-1,PT- Hollywood HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8839
+#EXTINF:-1,PT- MCM Pop
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8838
+#EXTINF:-1,PT- Motors TV
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8837
+#EXTINF:-1,PT- Motorvision
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8836
+#EXTINF:-1,PT- MOV
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8835
+#EXTINF:-1,PT- MTV Portugal
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8834
+#EXTINF:-1,PT- Nat Geo Wild
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8833
+#EXTINF:-1,PT- National Geographic HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8832
+#EXTINF:-1,PT- Nickelodeon
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8831
+#EXTINF:-1,PT- Odisseia
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8830
+#EXTINF:-1,PT- PFC
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8829
+#EXTINF:-1,PT- Porto Canal
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8828
+#EXTINF:-1,PT- Record News
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8827
+#EXTINF:-1,PT- RTP 1
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8826
+#EXTINF:-1,PT- RTP 2
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8825
+#EXTINF:-1,PT- RTP 3
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8824
+#EXTINF:-1,PT- RTP Acores
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8823
+#EXTINF:-1,PT- RTP Ãfrica
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8822
+#EXTINF:-1,PT- RTP Madeira
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8821
+#EXTINF:-1,PT- RTP Memoria
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8820
+#EXTINF:-1,PT- SIC
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8819
+#EXTINF:-1,PT- SIC Caras
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8818
+#EXTINF:-1,PT- SIC HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8817
+#EXTINF:-1,PT- SIC K
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8816
+#EXTINF:-1,PT- SIC Kids HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8815
+#EXTINF:-1,PT- SIC Mulher
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8814
+#EXTINF:-1,PT- SIC Noticias
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8813
+#EXTINF:-1,PT- SIC Noticias HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8812
+#EXTINF:-1,PT- SIC Radical
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8811
+#EXTINF:-1,PT- SPORT TV
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8810
+#EXTINF:-1,PT- SPORT TV   HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8809
+#EXTINF:-1,PT- SPORTING TV
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8808
+#EXTINF:-1,PT- SPORTTV 1 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8807
+#EXTINF:-1,PT- SPORTTV 1 SD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8806
+#EXTINF:-1,PT- SPORTTV 2 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8805
+#EXTINF:-1,PT- SPORTTV 2 SD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8804
+#EXTINF:-1,PT- SPORTTV 3 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8803
+#EXTINF:-1,PT- SPORTTV 3 SD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8802
+#EXTINF:-1,PT- SPORTTV 4 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8801
+#EXTINF:-1,PT- SPORTTV 5 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8800
+#EXTINF:-1,PT- TLC
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8799
+#EXTINF:-1,PT- TPA Angola
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8798
+#EXTINF:-1,PT- Travel Channel HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8797
+#EXTINF:-1,PT- TV Globo Premium
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8796
+#EXTINF:-1,PT- TVCINE 1 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8795
+#EXTINF:-1,PT- TVCINE 2 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8794
+#EXTINF:-1,PT- TVCINE 3 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8793
+#EXTINF:-1,PT- TVCINE 4 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8792
+#EXTINF:-1,PT- TVE Internacional
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8791
+#EXTINF:-1,PT- TVI
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8790
+#EXTINF:-1,PT- Tvi 24
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8789
+#EXTINF:-1,PT- TVI FICCAO
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8788
+#EXTINF:-1,PT- TVI REALITY
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/8787
+
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://www.sansat.net:25461/6756013125/6756013125/15954
+#EXTINF:-1,PT: A&E
+http://www.sansat.net:25461/6756013125/6756013125/15953
+#EXTINF:-1,PT: ABOLA TV
+http://www.sansat.net:25461/6756013125/6756013125/15952
+#EXTINF:-1,PT: AMC
+http://www.sansat.net:25461/6756013125/6756013125/15951
+#EXTINF:-1,PT: AXN BLACK
+http://www.sansat.net:25461/6756013125/6756013125/15950
+#EXTINF:-1,PT: AXN HD
+http://www.sansat.net:25461/6756013125/6756013125/15949
+#EXTINF:-1,PT: AXN WHITE
+http://www.sansat.net:25461/6756013125/6756013125/15948
+#EXTINF:-1,PT: BABY TV
+http://www.sansat.net:25461/6756013125/6756013125/15947
+#EXTINF:-1,PT: BBC ENTERTAINMENT
+http://www.sansat.net:25461/6756013125/6756013125/15946
+#EXTINF:-1,PT: BENFICA TV 1 HD
+http://www.sansat.net:25461/6756013125/6756013125/15945
+#EXTINF:-1,PT: CACA VISION
+http://www.sansat.net:25461/6756013125/6756013125/15944
+#EXTINF:-1,PT: CANAL PANDA
+http://www.sansat.net:25461/6756013125/6756013125/15943
+#EXTINF:-1,PT: CANAL Q
+http://www.sansat.net:25461/6756013125/6756013125/15942
+#EXTINF:-1,PT: CARTOON NETWORK
+http://www.sansat.net:25461/6756013125/6756013125/15941
+#EXTINF:-1,PT: CASA E PESCA
+http://www.sansat.net:25461/6756013125/6756013125/15940
+#EXTINF:-1,PT: CBS REALITY
+http://www.sansat.net:25461/6756013125/6756013125/15939
+#EXTINF:-1,PT: CINE MUNDO
+http://www.sansat.net:25461/6756013125/6756013125/15938
+#EXTINF:-1,PT: CM TV
+http://www.sansat.net:25461/6756013125/6756013125/15937
+#EXTINF:-1,PT: DISCOVERY HD
+http://www.sansat.net:25461/6756013125/6756013125/15936
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://www.sansat.net:25461/6756013125/6756013125/15935
+#EXTINF:-1,PT: DISNEY JR
+http://www.sansat.net:25461/6756013125/6756013125/15934
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://www.sansat.net:25461/6756013125/6756013125/15933
+#EXTINF:-1,PT: EUROSPORT 1
+http://www.sansat.net:25461/6756013125/6756013125/15932
+#EXTINF:-1,PT: EUROSPORT 2
+http://www.sansat.net:25461/6756013125/6756013125/15931
+#EXTINF:-1,PT: FINE LIVING
+http://www.sansat.net:25461/6756013125/6756013125/15930
+#EXTINF:-1,PT: FOX COMEDY
+http://www.sansat.net:25461/6756013125/6756013125/15929
+#EXTINF:-1,PT: FOX COMEDY HD
+http://www.sansat.net:25461/6756013125/6756013125/15928
+#EXTINF:-1,PT: FOX CRIME
+http://www.sansat.net:25461/6756013125/6756013125/15927
+#EXTINF:-1,PT: FOX CRIME HD
+http://www.sansat.net:25461/6756013125/6756013125/15926
+#EXTINF:-1,PT: FOX HD
+http://www.sansat.net:25461/6756013125/6756013125/15925
+#EXTINF:-1,PT: FOX MOVIES
+http://www.sansat.net:25461/6756013125/6756013125/15924
+#EXTINF:-1,PT: FOX MOVIES HD
+http://www.sansat.net:25461/6756013125/6756013125/15923
+#EXTINF:-1,PT: FUEL TV
+http://www.sansat.net:25461/6756013125/6756013125/15922
+#EXTINF:-1,PT: FUEL TV HD
+http://www.sansat.net:25461/6756013125/6756013125/15921
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://www.sansat.net:25461/6756013125/6756013125/15920
+#EXTINF:-1,PT: HISTORIA HD
+http://www.sansat.net:25461/6756013125/6756013125/15919
+#EXTINF:-1,PT: HOLLYWOOD
+http://www.sansat.net:25461/6756013125/6756013125/15918
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://www.sansat.net:25461/6756013125/6756013125/15917
+#EXTINF:-1,PT: KOMBAT SPORT
+http://www.sansat.net:25461/6756013125/6756013125/15916
+#EXTINF:-1,PT: LOCALVISAO TV HD
+http://www.sansat.net:25461/6756013125/6756013125/15915
+#EXTINF:-1,PT: MCM TOP
+http://www.sansat.net:25461/6756013125/6756013125/15914
+#EXTINF:-1,PT: MCS EXTREME
+http://www.sansat.net:25461/6756013125/6756013125/15913
+#EXTINF:-1,PT: MOTOR VISION
+http://www.sansat.net:25461/6756013125/6756013125/15912
+#EXTINF:-1,PT: MOV HD
+http://www.sansat.net:25461/6756013125/6756013125/15911
+#EXTINF:-1,PT: NGC HD
+http://www.sansat.net:25461/6756013125/6756013125/15910
+#EXTINF:-1,PT: NGC WILD
+http://www.sansat.net:25461/6756013125/6756013125/15909
+#EXTINF:-1,PT: NICKELODEON
+http://www.sansat.net:25461/6756013125/6756013125/15908
+#EXTINF:-1,PT: ODISSEIA
+http://www.sansat.net:25461/6756013125/6756013125/15907
+#EXTINF:-1,PT: PFC
+http://www.sansat.net:25461/6756013125/6756013125/15906
+#EXTINF:-1,PT: PORTO CANAL
+http://www.sansat.net:25461/6756013125/6756013125/15905
+#EXTINF:-1,PT: RTP 1
+http://www.sansat.net:25461/6756013125/6756013125/15904
+#EXTINF:-1,PT: RTP 1 HD
+http://www.sansat.net:25461/6756013125/6756013125/15903
+#EXTINF:-1,PT: RTP 2
+http://www.sansat.net:25461/6756013125/6756013125/15902
+#EXTINF:-1,PT: RTP 2 HD
+http://www.sansat.net:25461/6756013125/6756013125/15901
+#EXTINF:-1,PT: RTP 3
+http://www.sansat.net:25461/6756013125/6756013125/15900
+#EXTINF:-1,PT: RTP AFRICA
+http://www.sansat.net:25461/6756013125/6756013125/15899
+#EXTINF:-1,PT: RTP MEMORIA
+http://www.sansat.net:25461/6756013125/6756013125/15898
+#EXTINF:-1,PT: SIC
+http://www.sansat.net:25461/6756013125/6756013125/15897
+#EXTINF:-1,PT: SIC CARAS
+http://www.sansat.net:25461/6756013125/6756013125/15896
+#EXTINF:-1,PT: SIC HD
+http://www.sansat.net:25461/6756013125/6756013125/15895
+#EXTINF:-1,PT: SIC K
+http://www.sansat.net:25461/6756013125/6756013125/15894
+#EXTINF:-1,PT: SIC MULHER
+http://www.sansat.net:25461/6756013125/6756013125/15893
+#EXTINF:-1,PT: SIC NOTICIAS
+http://www.sansat.net:25461/6756013125/6756013125/15892
+#EXTINF:-1,PT: SIC RADICAL
+http://www.sansat.net:25461/6756013125/6756013125/15891
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://www.sansat.net:25461/6756013125/6756013125/16628
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://www.sansat.net:25461/6756013125/6756013125/16627
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://www.sansat.net:25461/6756013125/6756013125/16626
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://www.sansat.net:25461/6756013125/6756013125/16625
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://www.sansat.net:25461/6756013125/6756013125/16624
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://www.sansat.net:25461/6756013125/6756013125/16623
+#EXTINF:-1,PT: SPORT TV
+http://www.sansat.net:25461/6756013125/6756013125/15890
+#EXTINF:-1,PT: SPORT TV 1
+http://www.sansat.net:25461/6756013125/6756013125/15889
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://www.sansat.net:25461/6756013125/6756013125/15888
+#EXTINF:-1,PT: SPORT TV 2
+http://www.sansat.net:25461/6756013125/6756013125/15887
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://www.sansat.net:25461/6756013125/6756013125/15886
+#EXTINF:-1,PT: SPORT TV 3
+http://www.sansat.net:25461/6756013125/6756013125/15885
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://www.sansat.net:25461/6756013125/6756013125/15884
+#EXTINF:-1,PT: SPORT TV 4
+http://www.sansat.net:25461/6756013125/6756013125/15883
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://www.sansat.net:25461/6756013125/6756013125/15882
+#EXTINF:-1,PT: SPORT TV 5
+http://www.sansat.net:25461/6756013125/6756013125/15881
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://www.sansat.net:25461/6756013125/6756013125/15880
+#EXTINF:-1,PT: SPORTING TV
+http://www.sansat.net:25461/6756013125/6756013125/15879
+#EXTINF:-1,PT: SUNDANCE TV HD
+http://www.sansat.net:25461/6756013125/6756013125/15878
+#EXTINF:-1,PT: SYFY HD
+http://www.sansat.net:25461/6756013125/6756013125/15877
+#EXTINF:-1,PT: TLC
+http://www.sansat.net:25461/6756013125/6756013125/15876
+#EXTINF:-1,PT: TRAVEL CHANNEL HD
+http://www.sansat.net:25461/6756013125/6756013125/15875
+#EXTINF:-1,PT: TV CINE 1
+http://www.sansat.net:25461/6756013125/6756013125/15874
+#EXTINF:-1,PT: TV CINE 2
+http://www.sansat.net:25461/6756013125/6756013125/15873
+#EXTINF:-1,PT: TV CINE 3
+http://www.sansat.net:25461/6756013125/6756013125/15872
+#EXTINF:-1,PT: TV CINE 4
+http://www.sansat.net:25461/6756013125/6756013125/15871
+#EXTINF:-1,PT: TV GLOBO
+http://www.sansat.net:25461/6756013125/6756013125/15870
+#EXTINF:-1,PT: TV RECORD
+http://www.sansat.net:25461/6756013125/6756013125/15869
+#EXTINF:-1,PT: TV SERIES
+http://www.sansat.net:25461/6756013125/6756013125/15868
+#EXTINF:-1,PT: TVI
+http://www.sansat.net:25461/6756013125/6756013125/15867
+#EXTINF:-1,PT: TVI 24
+http://www.sansat.net:25461/6756013125/6756013125/15866
+#EXTINF:-1,PT: TVI FIC
+http://www.sansat.net:25461/6756013125/6756013125/15865
+
+#EXTINF:-1,Big Brother Brasil
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18144
+#EXTINF:-1,Big Brother Brasil  HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18145
+#EXTINF:-1,Arte 1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7904
+#EXTINF:-1,ARTE 1 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11308
+#EXTINF:-1,Arte 1 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10235
+#EXTINF:-1,A&E
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4404
+#EXTINF:-1,A&E SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11316
+#EXTINF:-1,A&E HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8139
+#EXTINF:-1,A&E HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11314
+#EXTINF:-1,A&E FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9344
+#EXTINF:-1,Arirang TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4407
+#EXTINF:-1,AMC
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7448
+#EXTINF:-1,AMC SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11312
+#EXTINF:-1,AMC HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7691
+#EXTINF:-1,AMC HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11080
+#EXTINF:-1,AMC FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9343
+#EXTINF:-1,AlJazeera HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7550
+#EXTINF:-1,All Sport
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6812
+#EXTINF:-1,Agro Canal
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/5983
+#EXTINF:-1,Animal Planet
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4403
+#EXTINF:-1,ANIMAL PLANET SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11310
+#EXTINF:-1,Animal Planet HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6142
+#EXTINF:-1,Animal Planet HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11079
+#EXTINF:-1,Animal Planet FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11536
+#EXTINF:-1,Tv Aparecida
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4438
+#EXTINF:-1,AXN
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4402
+#EXTINF:-1,AXN SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11306
+#EXTINF:-1,AXN HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6140
+#EXTINF:-1,AXN HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11078
+#EXTINF:-1,AXN FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13212
+#EXTINF:-1,Baby TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4401
+#EXTINF:-1,Band
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4400
+#EXTINF:-1,Band HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6882
+#EXTINF:-1,Band FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11573
+#EXTINF:-1,Band SP
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18204
+#EXTINF:-1,BAND SP HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18203
+#EXTINF:-1,Band Sports
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4398
+#EXTINF:-1,BAND SPORTS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11297
+#EXTINF:-1,Band Sports HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6138
+#EXTINF:-1,BAND SPORTS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11294
+#EXTINF:-1,Band News
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4399
+#EXTINF:-1,BAND NEWS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11301
+#EXTINF:-1,Band News HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10296
+#EXTINF:-1,BAND NEWS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11299
+#EXTINF:-1,Band Sport FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11535
+#EXTINF:-1,BIS
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6964
+#EXTINF:-1,BIS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11293
+#EXTINF:-1,BIS HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6881
+#EXTINF:-1,BIS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11291
+#EXTINF:-1,BIS FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11547
+#EXTINF:-1,Bloomberg TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7424
+#EXTINF:-1,Boomerang
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4396
+#EXTINF:-1,BOOMERANG SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11289
+#EXTINF:-1,Boomerang HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10294
+#EXTINF:-1,Boomerang HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11076
+#EXTINF:-1,Boomerang FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11534
+#EXTINF:-1,Curta!
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10291
+#EXTINF:-1,Curta! HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10290
+#EXTINF:-1,Canal Brasil
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6963
+#EXTINF:-1,Canal Brasil HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10293
+#EXTINF:-1,CANAL DO BOI SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11287
+#EXTINF:-1,Canal Rural
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7449
+#EXTINF:-1,Canal Sony
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4395
+#EXTINF:-1,CANAL SONY SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11283
+#EXTINF:-1,Canal Sony HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6961
+#EXTINF:-1,Canal Sony HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11075
+#EXTINF:-1,Canal Sony FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13202
+#EXTINF:-1,Cancao Nova
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6173
+#EXTINF:-1,HBO Plus FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13190
+#EXTINF:-1,Cartoon Network
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4394
+#EXTINF:-1,CARTON NETWORK SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11281
+#EXTINF:-1,Cartoon Network HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7817
+#EXTINF:-1,Cartoon Network HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11074
+#EXTINF:-1,Cartoon Network FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13210
+#EXTINF:-1,Cinemax
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4393
+#EXTINF:-1,CINEMAX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11280
+#EXTINF:-1,Cinemax HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7802
+#EXTINF:-1,Cinemax HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11073
+#EXTINF:-1,Combate
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4392
+#EXTINF:-1,COMBATE SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11277
+#EXTINF:-1,Combate HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6172
+#EXTINF:-1,Combate HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11072
+#EXTINF:-1,Combate FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8152
+#EXTINF:-1,Comedy Central
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4391
+#EXTINF:-1,COMEDY CENTRAL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11275
+#EXTINF:-1,Comedy Central HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10292
+#EXTINF:-1,Comedy Central HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11071
+#EXTINF:-1,Discovery Channel
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4390
+#EXTINF:-1,DISCOVERY CHANNEL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11273
+#EXTINF:-1,Discovery Channel HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6132
+#EXTINF:-1,Discovery Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11070
+#EXTINF:-1,Discovery Channel FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11548
+#EXTINF:-1,Discovery Home & Health
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4389
+#EXTINF:-1,Discovery Home & Health SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11270
+#EXTINF:-1,Discovery Home & Health HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6131
+#EXTINF:-1,Discovery Home & Health HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11068
+#EXTINF:-1,Discovery Home & Health FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11533
+#EXTINF:-1,Discovery Kids
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4388
+#EXTINF:-1,DISCOVERY KIDS SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11269
+#EXTINF:-1,Discovery Kids HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7538
+#EXTINF:-1,Discovery Kids HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11067
+#EXTINF:-1,Discovery Kids  FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11532
+#EXTINF:-1,Discovery Theater
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10289
+#EXTINF:-1,DISCOVERY THEATER SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11268
+#EXTINF:-1,Discovery Theater HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6130
+#EXTINF:-1,Discovery Theater HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11065
+#EXTINF:-1,Discovery Turbo
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4386
+#EXTINF:-1,DISCOVERY TURBO SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11267
+#EXTINF:-1,Discovery Turbo HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6877
+#EXTINF:-1,Discovery Turbo HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11064
+#EXTINF:-1,Discovery Turbo FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11531
+#EXTINF:-1,Discovery World
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10288
+#EXTINF:-1,DISCOVERY WORLD SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11266
+#EXTINF:-1,Discovery World HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6128
+#EXTINF:-1,Discovery World HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11063
+#EXTINF:-1,Discovery World FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11530
+#EXTINF:-1,Discovery Civilization
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10236
+#EXTINF:-1,Discovery Civilization  SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11271
+#EXTINF:-1,Discovery Civilization HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7862
+#EXTINF:-1,Discovert Civilization HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11069
+#EXTINF:-1,Discovery Civilization FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13208
+#EXTINF:-1,Discovery Science
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10237
+#EXTINF:-1,DISCOVERY SCIENCE SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11272
+#EXTINF:-1,Discovery Science HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7861
+#EXTINF:-1,Discovery Science HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11066
+#EXTINF:-1,Discovery Science FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13206
+#EXTINF:-1,Disney Channel
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4385
+#EXTINF:-1,DISNEY CHANNEL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11265
+#EXTINF:-1,Disney Channel HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7902
+#EXTINF:-1,Disney Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11062
+#EXTINF:-1,Disney Channel FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11546
+#EXTINF:-1,Disney Junior
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4384
+#EXTINF:-1,DISNEY JUNIOR SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11264
+#EXTINF:-1,Disney Junior HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11061
+#EXTINF:-1,Disney Junior FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13207
+#EXTINF:-1,Disney XD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4383
+#EXTINF:-1,Disney XD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11060
+#EXTINF:-1,DW
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4425
+#EXTINF:-1,Disney Junior HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10286
+#EXTINF:-1,E! Entertainment Television
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4382
+#EXTINF:-1,E! Entertainment Television HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10285
+#EXTINF:-1,ESPN
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4381
+#EXTINF:-1,ESPN SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11259
+#EXTINF:-1,ESPN  HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6127
+#EXTINF:-1,ESPN HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11056
+#EXTINF:-1,ESPN  FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11545
+#EXTINF:-1,ESPN 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7988
+#EXTINF:-1,ESPN 2 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6143
+#EXTINF:-1,ESPN Brasil
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4380
+#EXTINF:-1,ESPN BRASIL SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11258
+#EXTINF:-1,ESPN  Brasil HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6124
+#EXTINF:-1,ESPN  Brasil HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11057
+#EXTINF:-1,ESPN  Brasil FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11557
+#EXTINF:-1,ESPN Extra
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10284
+#EXTINF:-1,ESPN Extra HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10283
+#EXTINF:-1,ESPN 2 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11521
+#EXTINF:-1,Futura
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10277
+#EXTINF:-1,Film&Arts
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18154
+#EXTINF:-1,MAX UP FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13189
+#EXTINF:-1,Fish TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4377
+#EXTINF:-1,FISH TV SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11255
+#EXTINF:-1,Fish TV HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10280
+#EXTINF:-1,Food Network
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6959
+#EXTINF:-1,Food Network HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7534
+#EXTINF:-1,Comedy Central FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13205
+#EXTINF:-1,FOX
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4375
+#EXTINF:-1,FOX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11253
+#EXTINF:-1,FOX HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6122
+#EXTINF:-1,FOX HD*
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8193
+#EXTINF:-1,FOX HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11053
+#EXTINF:-1,FOX FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9141
+#EXTINF:-1,Fox Life
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4374
+#EXTINF:-1,FOX Life SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11252
+#EXTINF:-1,FOX Life HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6876
+#EXTINF:-1,FOX Life HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11052
+#EXTINF:-1,FOX Premium 1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6120
+#EXTINF:-1,Fox Premium 1 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11251
+#EXTINF:-1,FOX Premium 1 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10279
+#EXTINF:-1,FOX Premium 1 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11050
+#EXTINF:-1,FOX Premium 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6119
+#EXTINF:-1,Fox Premium 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11250
+#EXTINF:-1,FOX Premium 2 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10278
+#EXTINF:-1,FOX Premium 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11051
+#EXTINF:-1,FOX Premium 2 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11529
+#EXTINF:-1,Fox Sports
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4373
+#EXTINF:-1,Fox Sports SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11249
+#EXTINF:-1,Fox Sports HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6118
+#EXTINF:-1,Fox Sports HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11048
+#EXTINF:-1,Fox Sports FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11556
+#EXTINF:-1,Fox Sports 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4372
+#EXTINF:-1,Fox Sports 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11248
+#EXTINF:-1,FOX Sports 2 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6117
+#EXTINF:-1,FOX Sports 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11049
+#EXTINF:-1,FOX Sports 2 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8151
+#EXTINF:-1,Fox News
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6835
+#EXTINF:-1,Futura HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6182
+#EXTINF:-1,FX
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4371
+#EXTINF:-1,FX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11246
+#EXTINF:-1,FX HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6116
+#EXTINF:-1,FX HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11047
+#EXTINF:-1,Globo EPTV Campinas
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7932
+#EXTINF:-1,Globo EPTV Campinas HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10234
+#EXTINF:-1,Globo EPTV Ribeirao Preto
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9471
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10231
+#EXTINF:-1,Globo Porto Alegre
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9469
+#EXTINF:-1,Globo Porto Alegre HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10232
+#EXTINF:-1,Globo Rio Preto
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9468
+#EXTINF:-1,Globo Rio Preto HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10233
+#EXTINF:-1,Globo TV Tem Bauru
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9465
+#EXTINF:-1,Globo Nordeste
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7527
+#EXTINF:-1,Globo Nordeste SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11242
+#EXTINF:-1,Globo Nordeste HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10240
+#EXTINF:-1,Globo Nordeste HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11042
+#EXTINF:-1,Globo Nordeste FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11570
+#EXTINF:-1,TBS  FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13188
+#EXTINF:-1,Globo Minas
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10276
+#EXTINF:-1,Globo Minas HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7528
+#EXTINF:-1,Globo Brasilia
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7530
+#EXTINF:-1,Globo Brasilia HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10239
+#EXTINF:-1,Globo RPC Curitiba
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7866
+#EXTINF:-1,Globo RPC Curitiba HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10273
+#EXTINF:-1,Globo SP
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4431
+#EXTINF:-1,Globo SP SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11237
+#EXTINF:-1,Globo SP HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7529
+#EXTINF:-1,Globo SP HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11039
+#EXTINF:-1,Globo SP FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11568
+#EXTINF:-1,Globo RJ
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7547
+#EXTINF:-1,Globo RJ SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11239
+#EXTINF:-1,Globo RJ HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6113
+#EXTINF:-1,Globo RJ HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11041
+#EXTINF:-1,Globo RJ FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9318
+#EXTINF:-1,Globo Sorocaba
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7684
+#EXTINF:-1,Globo TV Bahia
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7539
+#EXTINF:-1,Globo TV Bahia HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10238
+#EXTINF:-1,Globo TV Anhanguera
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10272
+#EXTINF:-1,Globo Tv Anhaguera HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7521
+#EXTINF:-1,Globo News
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4432
+#EXTINF:-1,Globo News SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11243
+#EXTINF:-1,Globo News HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7442
+#EXTINF:-1,Globo News HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11043
+#EXTINF:-1,Globo News FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9152
+#EXTINF:-1,Gloob
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4369
+#EXTINF:-1,Gloob SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11232
+#EXTINF:-1,Gloob HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7526
+#EXTINF:-1,Gloob HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11037
+#EXTINF:-1,Gloob FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11540
+#EXTINF:-1,Gloobinho
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10270
+#EXTINF:-1,Gloobinho HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10271
+#EXTINF:-1,Gazeta SP HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8975
+#EXTINF:-1,GNT
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4368
+#EXTINF:-1,GNT HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6956
+#EXTINF:-1,Gospel Movies Television
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7656
+#EXTINF:-1,H2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4367
+#EXTINF:-1,H2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11231
+#EXTINF:-1,H2 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6111
+#EXTINF:-1,H2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11036
+#EXTINF:-1,H2 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13187
+#EXTINF:-1,HBO
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4366
+#EXTINF:-1,HBO SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11230
+#EXTINF:-1,HBO HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6108
+#EXTINF:-1,HBO HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11033
+#EXTINF:-1,HBO FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11566
+#EXTINF:-1,HBO 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4365
+#EXTINF:-1,HBO 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11229
+#EXTINF:-1,HBO 2 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6110
+#EXTINF:-1,HBO 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11035
+#EXTINF:-1,HBO 2 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11567
+#EXTINF:-1,HBO Family
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4364
+#EXTINF:-1,HBO Family SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11228
+#EXTINF:-1,HBO Family HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6109
+#EXTINF:-1,HBO Family HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11034
+#EXTINF:-1,HBO Plus
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4363
+#EXTINF:-1,HBO Plus SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11227
+#EXTINF:-1,HBO Plus HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6106
+#EXTINF:-1,HBO Plus HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11032
+#EXTINF:-1,HBO Plus E
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18185
+#EXTINF:-1,HBO Signature
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4361
+#EXTINF:-1,HBO Signature SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11226
+#EXTINF:-1,HBO Signature HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6105
+#EXTINF:-1,HBO Signature HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11031
+#EXTINF:-1,Heart TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6179
+#EXTINF:-1,History Channel
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4314
+#EXTINF:-1,History Channel SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11225
+#EXTINF:-1,History Channel HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6104
+#EXTINF:-1,History Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11030
+#EXTINF:-1,ID - Investigacao Discovery
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4360
+#EXTINF:-1,ID - Investigacao Discovery SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11224
+#EXTINF:-1,ID - Investigacao Discovery HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6869
+#EXTINF:-1,ID - Investigacao Discovery HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11029
+#EXTINF:-1,ID - Investigacao Discovery FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9143
+#EXTINF:-1,Lifetime
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7876
+#EXTINF:-1,Lifetime HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7525
+#EXTINF:-1,Mais Globosat
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6953
+#EXTINF:-1,Mais Globosat SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11233
+#EXTINF:-1,Mais Globosat HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9262
+#EXTINF:-1,Mais Globosat HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11038
+#EXTINF:-1,MAX
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4358
+#EXTINF:-1,MAX SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11223
+#EXTINF:-1,MAX HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10266
+#EXTINF:-1,MAX HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11028
+#EXTINF:-1,MAX Prime
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4357
+#EXTINF:-1,MAX Prime SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11222
+#EXTINF:-1,MAX Prime HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7850
+#EXTINF:-1,MAX Prime HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11027
+#EXTINF:-1,MAX Prime FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13201
+#EXTINF:-1,MAX Prime E
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18180
+#EXTINF:-1,MAX UP
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4355
+#EXTINF:-1,MAX UP SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11220
+#EXTINF:-1,MAX UP HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10265
+#EXTINF:-1,MAX UP HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11026
+#EXTINF:-1,Music Box Brasil
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7848
+#EXTINF:-1,Music Box Brasil HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10264
+#EXTINF:-1,MegaPix
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4354
+#EXTINF:-1,Megapoix SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11219
+#EXTINF:-1,Megapix HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6101
+#EXTINF:-1,Megapix HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11025
+#EXTINF:-1,Megapix FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8146
+#EXTINF:-1,MTV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4353
+#EXTINF:-1,MTV SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11218
+#EXTINF:-1,MTV HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7524
+#EXTINF:-1,Multishow
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4352
+#EXTINF:-1,Multishow SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11217
+#EXTINF:-1,Multishow HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6867
+#EXTINF:-1,Multishow HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11024
+#EXTINF:-1,TNT Series FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13186
+#EXTINF:-1,NatGeo Wild
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4349
+#EXTINF:-1,NatGeo Wild SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11214
+#EXTINF:-1,NatGeo Wild HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6099
+#EXTINF:-1,NatGeo Wild HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11022
+#EXTINF:-1,NatGeo Wild FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11528
+#EXTINF:-1,National Geography
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4348
+#EXTINF:-1,National Geography  SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11213
+#EXTINF:-1,National Geography HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6098
+#EXTINF:-1,National Geography HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11021
+#EXTINF:-1,Disney XD FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13203
+#EXTINF:-1,NatGeo Kids
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4350
+#EXTINF:-1,NatGeo Kids SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11215
+#EXTINF:-1,NatGeo Kids HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10261
+#EXTINF:-1,NatGeo Kids HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11023
+#EXTINF:-1,NatGeo Kids FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13198
+#EXTINF:-1,FOX Life  FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13199
+#EXTINF:-1,NBR
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6950
+#EXTINF:-1,NHK
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6949
+#EXTINF:-1,NHK HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4347
+#EXTINF:-1,NSC TV Florianopolis
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10275
+#EXTINF:-1,NSC TV Florianopolis HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/5973
+#EXTINF:-1,Nick Jr
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4346
+#EXTINF:-1,Nick Jr SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11212
+#EXTINF:-1,Nick Jr HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10260
+#EXTINF:-1,Nick Jr HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11020
+#EXTINF:-1,Nick Jr FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11527
+#EXTINF:-1,Nickeloden
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4345
+#EXTINF:-1,Nickelodeon SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11211
+#EXTINF:-1,Nickelodeon HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7537
+#EXTINF:-1,Nickeloden HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11019
+#EXTINF:-1,Nickelodeon FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11526
+#EXTINF:-1,Novo Tempo
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6948
+#EXTINF:-1,OFF
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4344
+#EXTINF:-1,OFF HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6947
+#EXTINF:-1,OFF HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11210
+#EXTINF:-1,OFF FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13211
+#EXTINF:-1,Paramount
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6946
+#EXTINF:-1,Paramount SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11208
+#EXTINF:-1,Paramount HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6945
+#EXTINF:-1,Paramount HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11018
+#EXTINF:-1,Paramount FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13185
+#EXTINF:-1,Play TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6944
+#EXTINF:-1,Premiere Clubes
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4333
+#EXTINF:-1,Premiere Clubes SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11206
+#EXTINF:-1,Premiere Clubes HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6089
+#EXTINF:-1,Premiere Clubes HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11017
+#EXTINF:-1,Premiere Clubes FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9144
+#EXTINF:-1,Premiere 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4341
+#EXTINF:-1,Premiere 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11205
+#EXTINF:-1,Premiere 2 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6093
+#EXTINF:-1,Premiere 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11016
+#EXTINF:-1,Premiere 2 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8149
+#EXTINF:-1,Premiere 3
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4340
+#EXTINF:-1,Premiere 3 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11204
+#EXTINF:-1,Premiere 3 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6092
+#EXTINF:-1,Premiere 3 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11015
+#EXTINF:-1,Premiere 3 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9230
+#EXTINF:-1,Premiere 4
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4339
+#EXTINF:-1,Premiere 4 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11203
+#EXTINF:-1,Premiere 4 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6091
+#EXTINF:-1,Premiere 4 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11014
+#EXTINF:-1,Premiere 4 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11552
+#EXTINF:-1,Premiere 5
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4338
+#EXTINF:-1,Premiere 5 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11202
+#EXTINF:-1,Premiere 5 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6090
+#EXTINF:-1,Premiere 5 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11013
+#EXTINF:-1,Premiere 5 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/9231
+#EXTINF:-1,Premiere 6
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4337
+#EXTINF:-1,Premiere 6 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11201
+#EXTINF:-1,Premiere 6 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10259
+#EXTINF:-1,Premiere 6 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11550
+#EXTINF:-1,Premiere 7
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4336
+#EXTINF:-1,Premiere 7 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11200
+#EXTINF:-1,Premiere 7 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10258
+#EXTINF:-1,Premiere 7 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11012
+#EXTINF:-1,Premiere 7 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11549
+#EXTINF:-1,Premiere 8
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4335
+#EXTINF:-1,PlayKids
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13136
+#EXTINF:-1,PlayKids HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13137
+#EXTINF:-1,Prime Box Brazil
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4332
+#EXTINF:-1,Prime Box Brazil HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10256
+#EXTINF:-1,Portal Gospel TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6207
+#EXTINF:-1,RBS TV Porto Alegre
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6942
+#EXTINF:-1,Real Madrid TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6183
+#EXTINF:-1,Rede TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4420
+#EXTINF:-1,Rede TV HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6940
+#EXTINF:-1,Rai Movie
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7665
+#EXTINF:-1,Record Rio
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13134
+#EXTINF:-1,Record Rio HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13135
+#EXTINF:-1,RecordTV Minas
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13133
+#EXTINF:-1,RecordTV Minas HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13132
+#EXTINF:-1,Record  FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13183
+#EXTINF:-1,Record
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4423
+#EXTINF:-1,Record SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11197
+#EXTINF:-1,Record HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7836
+#EXTINF:-1,Record HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11011
+#EXTINF:-1,Record SP
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10254
+#EXTINF:-1,Record SP HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18168
+#EXTINF:-1,RecordTV BA
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18152
+#EXTINF:-1,RecordTV BA HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18153
+#EXTINF:-1,RecordTV DF
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18150
+#EXTINF:-1,RecordTV DF HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18151
+#EXTINF:-1,RecordTV RS
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18148
+#EXTINF:-1,RecordTV RS HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/18149
+#EXTINF:-1,Record News
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6941
+#EXTINF:-1,Record News HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10255
+#EXTINF:-1,ESPN Extra FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13200
+#EXTINF:-1,Rede Brasil
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4421
+#EXTINF:-1,Rede Vida
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6939
+#EXTINF:-1,Rede Vida HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4419
+#EXTINF:-1,SBT
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4331
+#EXTINF:-1,SBT SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11192
+#EXTINF:-1,SBT HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6889
+#EXTINF:-1,SBT HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11010
+#EXTINF:-1,SBT FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13182
+#EXTINF:-1,SBT SP INTERIOR
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10253
+#EXTINF:-1,Space
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4328
+#EXTINF:-1,Space SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11191
+#EXTINF:-1,Space HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6085
+#EXTINF:-1,Space HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11009
+#EXTINF:-1,Space FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13197
+#EXTINF:-1,SporTV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4327
+#EXTINF:-1,Sportv SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11190
+#EXTINF:-1,SporTV  HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6082
+#EXTINF:-1,SporTV  HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11006
+#EXTINF:-1,SporTV  FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11563
+#EXTINF:-1,SporTV 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4326
+#EXTINF:-1,Sportv 2 SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11189
+#EXTINF:-1,SporTV 2 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6084
+#EXTINF:-1,SporTV 2 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11008
+#EXTINF:-1,SporTV 2 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11539
+#EXTINF:-1,SporTV 3
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4325
+#EXTINF:-1,Sportv 3 SD [Alternativo]1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11188
+#EXTINF:-1,SporTV 3 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6083
+#EXTINF:-1,SporTV 3 HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11007
+#EXTINF:-1,SporTV 3 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11538
+#EXTINF:-1,Studio Universal
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4324
+#EXTINF:-1,Studio Universal SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11187
+#EXTINF:-1,Studio Universal HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7874
+#EXTINF:-1,Studio Universal HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11005
+#EXTINF:-1,Studio Universal FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13194
+#EXTINF:-1,Syfy
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4323
+#EXTINF:-1,Syfy SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11186
+#EXTINF:-1,Syfy HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7795
+#EXTINF:-1,SyFy FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13195
+#EXTINF:-1,MTV LIVE
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10249
+#EXTINF:-1,MTV LIVE HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10248
+#EXTINF:-1,TBS
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4322
+#EXTINF:-1,TBS HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7873
+#EXTINF:-1,TBS HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11004
+#EXTINF:-1,TCM
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4321
+#EXTINF:-1,TCM SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11184
+#EXTINF:-1,TCM HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11003
+#EXTINF:-1,Telecine Action
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4320
+#EXTINF:-1,Telecine Action SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11183
+#EXTINF:-1,Telecine Action HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6080
+#EXTINF:-1,Telecine Action HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11002
+#EXTINF:-1,Telecine Action FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8141
+#EXTINF:-1,Telecine Cult
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4319
+#EXTINF:-1,Telecine Cult SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11182
+#EXTINF:-1,Telecine Cult HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10247
+#EXTINF:-1,Telecine Cult HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11001
+#EXTINF:-1,Telecine Cult FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8143
+#EXTINF:-1,Telecine Fun
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4318
+#EXTINF:-1,Telecine Fun SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11181
+#EXTINF:-1,Telecine Fun HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6079
+#EXTINF:-1,Telecine Fun HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11000
+#EXTINF:-1,Telecine Fun FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11561
+#EXTINF:-1,Telecine Pipoca
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4317
+#EXTINF:-1,Telecine Pipoca  SD [Alternativo]1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11180
+#EXTINF:-1,Telecine Pipoca HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6078
+#EXTINF:-1,Telecine Pipoca HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10999
+#EXTINF:-1,Telecine Pipoca FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8144
+#EXTINF:-1,Telecine Premium
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4316
+#EXTINF:-1,Telecine Premium SD [Alternativo]1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11179
+#EXTINF:-1,Telecine Premium HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6077
+#EXTINF:-1,Telecine Premium HD*
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8192
+#EXTINF:-1,Telecine Premium HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10998
+#EXTINF:-1,Telecine Premium FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8140
+#EXTINF:-1,Telecine Touch
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4315
+#EXTINF:-1,Telecine Touch SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11178
+#EXTINF:-1,Telecine Touch HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6076
+#EXTINF:-1,Telecine Touch HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10997
+#EXTINF:-1,Telecine Touch FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/8145
+#EXTINF:-1,Terra Viva
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6936
+#EXTINF:-1,TLC
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4313
+#EXTINF:-1,TLC SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11177
+#EXTINF:-1,TLC HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7872
+#EXTINF:-1,TLC HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10996
+#EXTINF:-1,TNT
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4312
+#EXTINF:-1,TNT SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11176
+#EXTINF:-1,TNT HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6074
+#EXTINF:-1,TNT HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10995
+#EXTINF:-1,TNT FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13181
+#EXTINF:-1,TNT Series
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4311
+#EXTINF:-1,TNT Series SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11175
+#EXTINF:-1,TNT Series HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6073
+#EXTINF:-1,TNT Series [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10994
+#EXTINF:-1,Tooncast
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4310
+#EXTINF:-1,Tooncast SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11174
+#EXTINF:-1,Tooncast FHD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10993
+#EXTINF:-1,TruTV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6935
+#EXTINF:-1,TruTV HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10244
+#EXTINF:-1,TV Liberal Belem
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/7871
+#EXTINF:-1,TV Brasil
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4442
+#EXTINF:-1,FOX Premium 1 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13196
+#EXTINF:-1,TV Justica
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/5970
+#EXTINF:-1,TV Cultura
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4412
+#EXTINF:-1,TV Cultura HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11171
+#EXTINF:-1,TV Diario
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4411
+#EXTINF:-1,TV Escola
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/5975
+#EXTINF:-1,TV Evangelizar
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6206
+#EXTINF:-1,TV Ra tim bum
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6933
+#EXTINF:-1,TV Serra Dourada
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6931
+#EXTINF:-1,TV Vitoria
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6817
+#EXTINF:-1,TV Camara
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10245
+#EXTINF:-1,TV Senado
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10246
+#EXTINF:-1,TV5 Monde
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6178
+#EXTINF:-1,TVE Bahia
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6966
+#EXTINF:-1,TVE HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4440
+#EXTINF:-1,Universal Channel
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4308
+#EXTINF:-1,Universal Channels SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11169
+#EXTINF:-1,Universal Channels HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/5987
+#EXTINF:-1,Universal Channels FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/13192
+#EXTINF:-1,Universal Channels HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10992
+#EXTINF:-1,VH1 Megahits
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10243
+#EXTINF:-1,VH1 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10361
+#EXTINF:-1,VH1 Megahits HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6929
+#EXTINF:-1,Virgin Radio TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4441
+#EXTINF:-1,Viva
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6928
+#EXTINF:-1,Viva HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6848
+#EXTINF:-1,Warner Channel
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4307
+#EXTINF:-1,Warner Channel SD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11167
+#EXTINF:-1,Warner Channel HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/6072
+#EXTINF:-1,Warner Channel HD [Alternativo]
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10990
+#EXTINF:-1,Warner Channel FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/11525
+#EXTINF:-1,Woohoo
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/4306
+#EXTINF:-1,Woohoo HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/10242
+#EXTINF:-1,PT:  FOX LIFE HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15239
+#EXTINF:-1,PT: 24 KITCHEN
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15288
+#EXTINF:-1,PT: 24 KITCHEN FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15287
+#EXTINF:-1,PT: A BOLA TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15379
+#EXTINF:-1,PT: A&E
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15284
+#EXTINF:-1,PT: Afro Music
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15212
+#EXTINF:-1,PT: AMC
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15292
+#EXTINF:-1,PT: AMC FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15290
+#EXTINF:-1,PT: AMC HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15291
+#EXTINF:-1,PT: AMC LOW
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15191
+#EXTINF:-1,PT: AR TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15408
+#EXTINF:-1,PT: AXN
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15262
+#EXTINF:-1,PT: AXN BLACK
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15254
+#EXTINF:-1,PT: AXN BLACK FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15252
+#EXTINF:-1,PT: AXN Black HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15253
+#EXTINF:-1,PT: AXN FHD.
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15261
+#EXTINF:-1,PT: AXN HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15258
+#EXTINF:-1,PT: AXN WHITE FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15256
+#EXTINF:-1,PT: Baby First
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15227
+#EXTINF:-1,PT: BABY TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15228
+#EXTINF:-1,PT: BENFICA TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15351
+#EXTINF:-1,PT: BENFICA TV FHD.
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15350
+#EXTINF:-1,PT: C-MUSIC TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15208
+#EXTINF:-1,PT: CAÇA E PESCA
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15322
+#EXTINF:-1,PT: CAÇAVISION
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15321
+#EXTINF:-1,PT: Canal Panda
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15225
+#EXTINF:-1,PT: CANÇÃO NOVA
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15194
+#EXTINF:-1,PT: CANÇÃO NOVA HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15193
+#EXTINF:-1,PT: CARTOON NETWORK
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15226
+#EXTINF:-1,PT: CBS REALITY
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15283
+#EXTINF:-1,PT: CINEMUNDO
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15296
+#EXTINF:-1,PT: CINEMUNDO HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15295
+#EXTINF:-1,PT: CMTV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15417
+#EXTINF:-1,PT: CMTV FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15415
+#EXTINF:-1,PT: CMTV HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15416
+#EXTINF:-1,PT: CNN
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15198
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15282
+#EXTINF:-1,PT: DISCOVERY SHOWCASE
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15281
+#EXTINF:-1,PT: DISCOVERY SHOWCASE FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15280
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15224
+#EXTINF:-1,PT: DISNEY CHANNEL LOW
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15223
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15222
+#EXTINF:-1,PT: DOG TV FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15278
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15277
+#EXTINF:-1,PT: EURONEWS
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15197
+#EXTINF:-1,PT: EUROSPORT  1 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15338
+#EXTINF:-1,PT: EUROSPORT 1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15340
+#EXTINF:-1,PT: Eurosport 1 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15339
+#EXTINF:-1,PT: Eurosport 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15336
+#EXTINF:-1,PT: FASHION TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15186
+#EXTINF:-1,PT: FINE LIVING NETWORK FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15185
+#EXTINF:-1,PT: FOOD NETWORK
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15276
+#EXTINF:-1,PT: FOX COMEDY
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15250
+#EXTINF:-1,PT: FOX COMEDY FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15249
+#EXTINF:-1,PT: Fox Crime
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15246
+#EXTINF:-1,PT: FOX CRIME FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15244
+#EXTINF:-1,PT: FOX CRIME HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15245
+#EXTINF:-1,PT: FOX FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15240
+#EXTINF:-1,PT: FOX FHD.
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15241
+#EXTINF:-1,PT: Fox HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15243
+#EXTINF:-1,PT: FOX LIFE FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15237
+#EXTINF:-1,PT: FOX MOVIES
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15294
+#EXTINF:-1,PT: Fox Movies HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15293
+#EXTINF:-1,PT: Fuel TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15323
+#EXTINF:-1,PT: FUEL TV FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15190
+#EXTINF:-1,PT: FUEL TV HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15275
+#EXTINF:-1,PT: GLOBO
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15204
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15203
+#EXTINF:-1,PT: GLOBO PREMIUM FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15202
+#EXTINF:-1,PT: HISTÓRIA
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15274
+#EXTINF:-1,PT: HOLLYWOOD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15301
+#EXTINF:-1,PT: HOLLYWOOD FHD.
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15300
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15297
+#EXTINF:-1,PT: ICONCERTS FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15206
+#EXTINF:-1,PT: Jim Jam
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15221
+#EXTINF:-1,PT: KOMBAT SPORT
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15330
+#EXTINF:-1,PT: KOMBAT SPORT.
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15331
+#EXTINF:-1,PT: Kuriakos TV FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15192
+#EXTINF:-1,PT: LEIRIA
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15189
+#EXTINF:-1,PT: Localvisao TV HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15382
+#EXTINF:-1,PT: MCM POP
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15210
+#EXTINF:-1,PT: MCM TOP
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15209
+#EXTINF:-1,PT: MOTORS TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15326
+#EXTINF:-1,PT: Motorvision
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15329
+#EXTINF:-1,PT: MOTORVISION FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15327
+#EXTINF:-1,PT: Motorvision HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15328
+#EXTINF:-1,PT: Mtv Portugal
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15211
+#EXTINF:-1,PT: MY CUISINE
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15285
+#EXTINF:-1,PT: NAT GEO WILD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15269
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15272
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15270
+#EXTINF:-1,PT: NBA
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15335
+#EXTINF:-1,PT: NBA HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15334
+#EXTINF:-1,PT: Nickelodeon
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15217
+#EXTINF:-1,PT: NICKELODEON FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15220
+#EXTINF:-1,PT: NICKELODEON HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15219
+#EXTINF:-1,PT: ODISSEIA
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15268
+#EXTINF:-1,PT: Panda Biggs
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15216
+#EXTINF:-1,PT: PFC
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15342
+#EXTINF:-1,PT: PORTO CANAL
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15387
+#EXTINF:-1,PT: QURAN HIDAYAH
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15188
+#EXTINF:-1,PT: REAL MADRID TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15332
+#EXTINF:-1,PT: Record News
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15196
+#EXTINF:-1,PT: RTP 1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15442
+#EXTINF:-1,PT: RTP 1 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15434
+#EXTINF:-1,PT: RTP 1 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15438
+#EXTINF:-1,PT: RTP 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15441
+#EXTINF:-1,PT: RTP 2 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15437
+#EXTINF:-1,PT: RTP 3
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15410
+#EXTINF:-1,PT: RTP AFRICA
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15406
+#EXTINF:-1,PT: RTP MADEIRA
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15384
+#EXTINF:-1,PT: SANTUARIO DE FATIMA HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15381
+#EXTINF:-1,PT: SIC
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15440
+#EXTINF:-1,PT: SIC CARAS
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15404
+#EXTINF:-1,PT: SIC FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15433
+#EXTINF:-1,PT: SIC HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15436
+#EXTINF:-1,PT: SIC K
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15391
+#EXTINF:-1,PT: SIC K HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15390
+#EXTINF:-1,PT: SIC MULHER
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15405
+#EXTINF:-1,PT: SIC NOTICIAS
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15422
+#EXTINF:-1,PT: SIC NOTICIAS FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15420
+#EXTINF:-1,PT: SIC NOTICIAS HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15421
+#EXTINF:-1,PT: SIC RADICAL
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15388
+#EXTINF:-1,PT: SKY NEWS
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15195
+#EXTINF:-1,PT: SPORT TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15377
+#EXTINF:-1,PT: SPORT TV   FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15376
+#EXTINF:-1,PT: SPORT TV 1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15375
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15369
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15372
+#EXTINF:-1,PT: SPORT TV 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15366
+#EXTINF:-1,PT: SPORT TV 2 FHD.
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15363
+#EXTINF:-1,PT: Sport TV 2 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15364
+#EXTINF:-1,PT: SPORT TV 3
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15361
+#EXTINF:-1,PT: SPORT TV 3 FHD.
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15359
+#EXTINF:-1,PT: Sport TV 3 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15360
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15355
+#EXTINF:-1,PT: Sport TV 4 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15356
+#EXTINF:-1,PT: Sport TV 5
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15354
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15353
+#EXTINF:-1,PT: Sport TV 5 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15352
+#EXTINF:-1,PT: Sport tv4
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15357
+#EXTINF:-1,PT: Sporting TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15346
+#EXTINF:-1,PT: SPORTING TV FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15344
+#EXTINF:-1,PT: Sporting Tv HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15345
+#EXTINF:-1,PT: Syfy
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15236
+#EXTINF:-1,PT: SYFY FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15234
+#EXTINF:-1,PT: Syfy HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15235
+#EXTINF:-1,PT: SYFY LOW
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15184
+#EXTINF:-1,PT: TLC
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15267
+#EXTINF:-1,PT: TOROS TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15320
+#EXTINF:-1,PT: TOROS TV HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15319
+#EXTINF:-1,PT: TPA
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15392
+#EXTINF:-1,PT: TRACE URBAN TV
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15266
+#EXTINF:-1,PT: TRAVEL CHANNEL
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15265
+#EXTINF:-1,PT: TRAVEL CHANNEL FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15264
+#EXTINF:-1,PT: TV Cine 1 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15313
+#EXTINF:-1,PT: TV RECORD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15201
+#EXTINF:-1,PT: TV RECORD HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15200
+#EXTINF:-1,PT: TV SERIES
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15233
+#EXTINF:-1,PT: TV SERIES FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15231
+#EXTINF:-1,PT: TV SERIES HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15232
+#EXTINF:-1,PT: TVCine 1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15317
+#EXTINF:-1,PT: TVCINE 1 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15309
+#EXTINF:-1,PT: TVCine 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15316
+#EXTINF:-1,PT: TVCINE 2 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15308
+#EXTINF:-1,PT: TVCINE 2 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15312
+#EXTINF:-1,PT: TVCINE 3
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15315
+#EXTINF:-1,PT: TVCINE 3 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15307
+#EXTINF:-1,PT: TVCINE 3 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15311
+#EXTINF:-1,PT: TVCINE 4
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15314
+#EXTINF:-1,PT: TVCINE 4 FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15306
+#EXTINF:-1,PT: TVCINE 4 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15310
+#EXTINF:-1,PT: TVI
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15439
+#EXTINF:-1,PT: TVI 24
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15413
+#EXTINF:-1,PT: TVI 24 HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15411
+#EXTINF:-1,PT: TVI FHD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15432
+#EXTINF:-1,PT: TVI FICÇÃO
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15402
+#EXTINF:-1,PT: TVI FICÇÃO HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15401
+#EXTINF:-1,PT: TVI HD
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15435
+#EXTINF:-1,PT: TVI REALITY
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15398
+#EXTINF:-1,PT: TVI REALITY CAMARA 1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15397
+#EXTINF:-1,PT: TVI REALITY CAMARA 2
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15396
+#EXTINF:-1,PT: TVI REALITY CAMARA 3
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15395
+#EXTINF:-1,PT: TVI REALITY CAMARA 4
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15394
+#EXTINF:-1,PT: TVI REALITY MOSAICO
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15393
+#EXTINF:-1,PT: VH1
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15214
+#EXTINF:-1,PT: VH1 CLASSIC
+http://painel.ebanonet.com.br:25461/PORTUGAL/PORTUGAL/15213
+
+#EXTINF:-1,PT: Spor tv 1
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/880
+#EXTINF:-1,PT: SporTV 2
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/881
+#EXTINF:-1,PT: SporTV 3
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/882
+#EXTINF:-1,PT: SporTV 4
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/883
+#EXTINF:-1,PT: SporTV 5
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/884
+#EXTINF:-1,PT: Sporting TV HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/885
+#EXTINF:-1,PT: Sport TV
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/899
+#EXTINF:-1,PT: Benfica TV 1
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/900
+#EXTINF:-1,PT: TVCine 1
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/936
+#EXTINF:-1,PT: TVCine 2
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/935
+#EXTINF:-1,PT: TVCine 3
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/934
+#EXTINF:-1,PT: TVCine 4
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/933
+#EXTINF:-1,PT: TVCseries
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/930
+#EXTINF:-1,PT: VeVo 1 HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/898
+#EXTINF:-1,PT: VeVo 2 HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/897
+#EXTINF:-1,PT: VeVo 3 HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/896
+#EXTINF:-1,PT: AXN HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/915
+#EXTINF:-1,PT: Axn White HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/916
+#EXTINF:-1,PT: Axn Black HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/932
+#EXTINF:-1,PT: Fox HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/926
+#EXTINF:-1,PT: Fox Crime
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/901
+#EXTINF:-1,PT: Fox Life HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/925
+#EXTINF:-1,PT: Fox Comedy
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/923
+#EXTINF:-1,PT: Fox Movies HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/929
+#EXTINF:-1,PT: Toros tv
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/909
+#EXTINF:-1,PT: TVI Ficcao
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/886
+#EXTINF:-1,PT: TVI
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/889
+#EXTINF:-1,PT: TVI 24
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/887
+#EXTINF:-1,PT: TV Globo
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/888
+#EXTINF:-1,PT: SIC
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/924
+#EXTINF:-1,PT: SIC K
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/919
+#EXTINF:-1,PT: SIC Noticias
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/903
+#EXTINF:-1,PT: Sic Radical
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/914
+#EXTINF:-1,PT: SIC Caras
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/912
+#EXTINF:-1,PT: Sic Mulher
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/913
+#EXTINF:-1,PT: RTP 1
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/895
+#EXTINF:-1,PT: RTP 2
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/894
+#EXTINF:-1,PT: RTP Memoria
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/890
+#EXTINF:-1,PT: RTP Madeira
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/891
+#EXTINF:-1,PT: RTP Acores
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/893
+#EXTINF:-1,PT: TLC
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/878
+#EXTINF:-1,PT: Travel Channel
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/877
+#EXTINF:-1,PT: CM TV
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/908
+#EXTINF:-1,PT: TV Globo Premium
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/931
+#EXTINF:-1,PT: Record
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/917
+#EXTINF:-1,PT: PFC
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/911
+#EXTINF:-1,PT: Jim Jim
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/918
+#EXTINF:-1,PT: SyFy
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/902
+#EXTINF:-1,PT: CartoonNet Work
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/920
+#EXTINF:-1,PT: Motors TV
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/921
+#EXTINF:-1,PT: Cine Mundo
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/892
+#EXTINF:-1,PT: EuroSpor News
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/922
+#EXTINF:-1,PT: Hollywood
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/907
+#EXTINF:-1,PT: EuroSport 2
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/927
+#EXTINF:-1,PT: EuroSport
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/928
+#EXTINF:-1,PT: Disney Junior
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/905
+#EXTINF:-1,PT: Disney Channel
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/904
+#EXTINF:-1,PT: Discovery HD
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/906
+#EXTINF:-1,PT: Abola tv
+http://ipsatpro.biz:8080/delukskompjuteri/966333366999/910
